@@ -1,0 +1,4 @@
+#Thu Jun 11 11:34:27 IST 2020
+base.0=C\:\\Users\\rdchikku\\Desktop\\Apps\\VisualStudioSample\\vs_app01\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
